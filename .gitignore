@@ -1,1 +1,8 @@
-*.pdf
+# Dataheets of components (Linked in README on ./Docs)
+
+Docs/*.pdf
+
+# Kicad Files
+
+./PCB/PowerSupply/*
+
